@@ -1,5 +1,3 @@
-# AboutMe
-
 # 👋 Hi, I'm Joelnin Rodriguez! 
 
 🎨 **Creative Thinker** | 🎯 **Goal-Oriented Professional** | 🌍 **Global Collaborator**
